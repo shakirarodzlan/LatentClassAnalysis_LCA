@@ -63,7 +63,7 @@ sink()
 
 
 
-## Trial other model, Much better
+## Also can use this code
 
 f1 <- as.formula (cbind(smoker, drinker, opiod, marijuana, amph, 
                         kratom)~ 1)
